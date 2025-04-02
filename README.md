@@ -56,7 +56,7 @@ The goal of this analysis is to extract key financial insights, identify market 
 The analysis reveals **significant fluctuations** in Apple's stock over the past years, with a **notable recovery in 2023 and strong performance in 2024**. The **Golden Cross occurrences suggest bullish momentum**, while the **Death Cross in March 2024 signals caution**. Despite volatility, Apple's stock has shown strong **growth over the year (+36.52%)**, making it an attractive investment option under current market conditions.
 
 ## Tools & Technologies Used
-- **Python** (Pandas, Matplotlib, Seaborn, NumPy)
+- **Python** (Pandas, Matplotlib)
 - **Jupyter Notebook** for data visualization and analysis
 - **Yahoo Finance API** for stock data retrieval
 
